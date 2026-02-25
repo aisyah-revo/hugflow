@@ -138,7 +138,7 @@ git push origin add-my-dataset
 #### Step 3: Create Pull Request
 
 ```bash
-gh pr create --title "Add my-dataset" --body "Adding dataset for training"
+gh pr create --title "Add nusantara" --body "Adding dataset for training"
 ```
 
 #### Step 4: Automation Takes Over

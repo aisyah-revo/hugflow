@@ -1,0 +1,5 @@
+hf_id: "parler-tts/libritts_r_filtered"
+description: "libritts_r_filtered is a subset of the LibriTTS dataset, which is a large-scale corpus of read English speech. The 'r' in the name indicates that this subset has been filtered to include only recordings with a high signal-to-noise ratio, making it suitable for training text-to-speech models. The dataset includes audio files and their"
+revision: "main"
+split: "clean"
+update: true
